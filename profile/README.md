@@ -1,6 +1,6 @@
-# Welcome to Ludex
+# Welcome to Ludex Labs
 
-We provide APIs & SDKs for video game developers to easily implement smart contracts into games with no blockchain knowledge required.
+At Ludex Labs, we are dedicated to advancing the gaming and blockchain landscape by crafting intuitive accessible solutions tailored for both individuals and businesses.
 
 <!--
 
